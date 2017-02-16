@@ -53,6 +53,8 @@ source_suffix = ['.rst', '.md']
 # The master toctree document.
 master_doc = 'index'
 
+github_doc_root = 'https://github.com/metafetish/lovesense-docs/tree/master/'
+
 # General information about the project.
 project = 'Lovense Hardware and Protocol Documentation'
 copyright = '2017, Kyle Machulis'
@@ -174,3 +176,10 @@ def setup(app):
             'auto_toc_tree_section': 'Contents',
             }, True)
     app.add_transform(AutoStructify)
+
+html_context = {
+    "display_github": False, # Add 'Edit on Github' link instead of 'View page source'
+    "last_updated": True,
+    "commit": False,
+}
+
