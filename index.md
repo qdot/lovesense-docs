@@ -52,7 +52,7 @@ its partners. The documentation and libraries here have been produced
 via clean room reverse engineering methods, and are provided with no
 guarantees, as outlined by the license agreement. Usage of these
 libraries and information is in no way condoned by Lovense and may
-void the warrenty of your toy.
+void the warranty of your toy.
 
 ## License
 
