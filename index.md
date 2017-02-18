@@ -53,3 +53,9 @@ via clean room reverse engineering methods, and are provided with no
 guarantees, as outlined by the license agreement. Usage of these
 libraries and information is in no way condoned by Lovense and may
 void the warrenty of your toy.
+
+## License
+
+Lovesense documentation is covered under
+the
+[Creative Commons 4.0 Attribution License](https://creativecommons.org/licenses/by/4.0/).
