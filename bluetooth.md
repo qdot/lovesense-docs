@@ -48,7 +48,7 @@ Service UUID (Max/Nora):
 0000fff0-0000-1000-8000-00805f9b34fb
 ```
 
-TX Characteristic UUID (Max/Nora):
+RX Characteristic UUID (Max/Nora):
 ```
 0000fff1-0000-1000-8000-00805f9b34fb
 ```
