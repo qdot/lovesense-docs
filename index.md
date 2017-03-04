@@ -1,14 +1,17 @@
 # Lovense Hardware and Protocol Documentation
 
+## Contents
+
 ```eval_rst
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
    models
    bluetooth
    protocol
  ```
+ 
+## Introduction
 
 This document contains information about Lovense sex toy hardware, and
 the common bluetooth protocol used in all Lovense toys. This

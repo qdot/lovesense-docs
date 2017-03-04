@@ -1,5 +1,7 @@
 # lovesense-docs
 
+![](https://readthedocs.org/projects/lovesense-docs/badge/?version=latest)
+
 Sphinx-formatted documentation for Lovense Hardware and Communication Protocol.
 
 Formatted documentation posted at:
